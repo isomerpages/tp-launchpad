@@ -24,7 +24,7 @@ sections:
           description: Resource Hub
           url: ""
   - infopic:
-      title: "Innovation and Entrepreneurship "
+      title: Innovation and Entrepreneurship
       id: infopic
       description: We offers support, resources, and networking opportunities for
         budding entrepreneurs.
@@ -57,11 +57,20 @@ sections:
             sell and you going to buy!
           link_text: Find out more
           link_url: https://
+  - infopic:
+      title: THEIR JOURNEY STARTS HERE
+      subtitle: See it yourself
+      id: infopic
+      description: "Our bold startups dare to strap themselves in and launch into the
+        unknown. "
+      button: See all startups
+      url: https://
+      alt: Image alt text
   - textcards:
       title: Connect
       subtitle: Inspire,Innovate,Collaborate!
       id: textcards
-      description: "There are various ways to reach out to us. "
+      description: There are various ways to reach out to us.
       cards:
         - title: Chat TLP
           description: Temasek Innovation and Entrepreneurship's Business Advisory and
