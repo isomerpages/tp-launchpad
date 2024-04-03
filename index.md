@@ -61,8 +61,8 @@ sections:
       title: THEIR JOURNEY STARTS HERE
       subtitle: See it yourself
       id: infopic
-      description: "Our bold startups dare to strap themselves in and launch into the
-        unknown. "
+      description: Our bold startups dare to strap themselves in and launch into the
+        unknown.
       button: See all startups
       url: https://
       alt: Image alt text
