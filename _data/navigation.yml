@@ -1,5 +1,7 @@
 logo: /images/isomer-logo.svg
 links:
+  - title: What We Offer
+    url: /permalink
   - title: Innovation & Entrepreneurship
     collection: example-folder
   - title: Contact Us
