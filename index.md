@@ -31,6 +31,7 @@ sections:
       button: What we offer
       url: https://
       alt: Image alt text
+      image: /images/Screenshot_2024_04_04_090303.png
   - infobar:
       title: '"Innovate. Entrepreneur. Prosper."'
       subtitle: Our Mission
