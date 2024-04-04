@@ -2,7 +2,7 @@ collections:
   entrepreneurship:
     output: true
     order:
-      - TPEC.md
-      - Programmes.md
-      - Mentorship.md
       - Funding & Grants.md
+      - Mentorship.md
+      - Programmes.md
+      - TPEC.md
