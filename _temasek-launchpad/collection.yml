@@ -1,5 +1,5 @@
 collections:
-  our-community:
+  temasek-launchpad:
     output: true
     order:
       - Overseas Study Trip.md
