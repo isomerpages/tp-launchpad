@@ -1,4 +1,5 @@
 collections:
   what-we-offer:
     output: true
-    order: []
+    order:
+      - What we offer.md
