@@ -59,7 +59,7 @@ sections:
           link_text: Find out more
           link_url: https://
   - infopic:
-      title: THEIR JOURNEY STARTS HERE
+      title: Their Journey Starts Here
       subtitle: See it yourself
       id: infopic
       description: Our bold startups dare to strap themselves in and launch into the
