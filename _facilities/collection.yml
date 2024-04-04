@@ -2,6 +2,6 @@ collections:
   facilities:
     output: true
     order:
-      - Hotdesk and Pod Room Request.md
       - Makerspace Facilities.md
       - Incubation Room Request.md
+      - Hotdesk and Pod Room Request.md
