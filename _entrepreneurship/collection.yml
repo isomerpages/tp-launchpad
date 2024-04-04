@@ -2,4 +2,5 @@ collections:
   entrepreneurship:
     output: true
     order:
+      - Mentorship.md
       - Funding & Grants.md
