@@ -1,5 +1,5 @@
 collections:
-  example-folder:
+  innovation:
     output: true
     order:
       - Innovation/.keep
