@@ -67,6 +67,7 @@ sections:
       button: See all startups
       url: https://
       alt: Image alt text
+      image: /images/Screenshot_2024_04_04_090755.png
   - textcards:
       title: Connect
       subtitle: Inspire,Innovate,Collaborate!
