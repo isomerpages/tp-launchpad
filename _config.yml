@@ -1,5 +1,5 @@
-title: Title
-url: ""
+title: Innovation and Entrepreneurship
+url: https://www.tp.edu.sg
 favicon: /images/favicon-isomer.ico
 colors:
   primary-color: "#6031b6"
@@ -53,3 +53,7 @@ staging: https://staging-lite.d1ww3f03vnzgjb.amplifyapp.com
 prod: https://master.d3qhfmy477grha.amplifyapp.com
 facebook-pixel: ""
 resources_name: test
+shareicon: /images/isomer-logo.svg
+is_government: false
+google_analytics_ga4: ""
+linkedin-insights: ""
