@@ -3,5 +3,4 @@ collections:
     output: true
     order:
       - Innovation/.keep
-      - Innovation/Innovation.md
       - Innovation/Projects.md
