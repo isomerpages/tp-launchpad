@@ -3,5 +3,3 @@ collections:
     output: true
     order:
       - Innovation.md
-      - Projects/.keep
-      - Projects/subfolder-page.md
