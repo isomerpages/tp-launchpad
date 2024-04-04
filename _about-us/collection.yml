@@ -1,5 +1,5 @@
 collections:
-  what-we-offer:
+  about-us:
     output: true
     order:
       - What we offer.md
