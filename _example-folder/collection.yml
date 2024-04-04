@@ -2,6 +2,7 @@ collections:
   example-folder:
     output: true
     order:
+      - Innovation/Digital Solution Lab.md
       - Innovation/Innovation Lab.md
       - Innovation/.keep
       - Innovation/Projects.md
