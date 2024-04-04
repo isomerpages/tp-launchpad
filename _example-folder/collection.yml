@@ -2,4 +2,5 @@ collections:
   example-folder:
     output: true
     order:
+      - Projects.md
       - Innovation.md
