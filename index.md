@@ -29,7 +29,7 @@ sections:
       description: We offers support, resources, and networking opportunities for
         budding entrepreneurs.
       button: What we offer
-      url: https://www.tp.edu.sg/what-we-offer/
+      url: https://staging.d3qhfmy477grha.amplifyapp.com/what-we-offer/
       alt: Image alt text
       image: /images/Screenshot_2024_04_04_090303.png
   - infobar:
