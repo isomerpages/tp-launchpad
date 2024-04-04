@@ -2,6 +2,6 @@ collections:
   temasek-launchpad:
     output: true
     order:
-      - Overseas Study Trip.md
-      - Events & Programme.md
       - What's Happening.md
+      - Events & Programme.md
+      - Overseas Study Trip.md
