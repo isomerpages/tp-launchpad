@@ -2,4 +2,5 @@ collections:
   our-community:
     output: true
     order:
+      - Events & Programme.md
       - What's Happening.md
