@@ -2,6 +2,6 @@ collections:
   innovation:
     output: true
     order:
-      - Innov8 Student Club.md
-      - Our Coaches.md
       - Projects.md
+      - Our Coaches.md
+      - Innov8 Student Club.md
