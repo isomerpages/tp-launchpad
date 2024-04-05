@@ -7,8 +7,7 @@ permalink: /
 notification: Here's a notification bar you can use!
 sections:
   - hero:
-      title: Temasek Launchpad
-      background: /images/Screenshot_2024_04_04_090303.png
+      background: /images/Screenshot_2024_04_05_123908.png
       url: /who-are-we/
       key_highlights:
         - title: Innovation
