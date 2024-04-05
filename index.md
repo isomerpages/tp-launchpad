@@ -45,11 +45,13 @@ sections:
         - title: Funding
           description: Up to 10K fund to support startups in prototyping and business
             development.
-  - infobar:
+  - infopic:
       title: "\"Creating Tomorrow's Aspiring Innovators and Entrepreneur\""
       subtitle: Our Mission
-      id: infobar
+      id: infopic
       description: "- Director of Innovation and Entrepreneurship"
+      image: /images/hero-banner.png
+      alt: Image alt text
   - resources:
       title: What's Happening
       subtitle: Key insights, startup success.
