@@ -2,7 +2,7 @@ collections:
   temasek-launchpad:
     output: true
     order:
-      - Projects.md
+      - Innovation and Industrial Projects.md
       - Our Startups.md
       - Innov8.md
       - TPEC.md
