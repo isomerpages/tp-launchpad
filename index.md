@@ -13,16 +13,16 @@ sections:
       key_highlights:
         - title: Innovation
           description: Start Imagine and Create
-          url: https://gmail.com
+          url: https://staging.d3qhfmy477grha.amplifyapp.com/projects/
         - title: Entrepreneurship
           description: Be A Business Pioneer
-          url: https://google.com
+          url: https://staging.d3qhfmy477grha.amplifyapp.com/funding-grants/
         - title: Temasek Launchpad
           description: Our Community
-          url: /privacy/
+          url: https://staging.d3qhfmy477grha.amplifyapp.com/our-startups/
         - title: Facilities
           description: Resource Hub
-          url: ""
+          url: https://staging.d3qhfmy477grha.amplifyapp.com/makerspace-facilities/
       subtitle: We operate within the innovation and entrepreneurship sector in
         Temasek Polytechnic, providing support and resources for budding
         innovators and entrepreneurs.
