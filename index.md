@@ -23,6 +23,16 @@ sections:
         - title: Facilities
           description: Resource Hub
           url: ""
+  - infopic:
+      title: INNOVATION AND ENTREPRENEURSHIP
+      id: infopic
+      description: We offers support, resources, and networking opportunities for
+        budding entrepreneurs.
+      button: Read more
+      url: https://staging.d3qhfmy477grha.amplifyapp.com/what-we-offer/
+      alt: Image alt text
+      image: /images/Screenshot_2024_04_04_090303.png
+      subtitle: who are we
   - infocols:
       title: What We Offer
       subtitle: Path to your success
@@ -41,16 +51,6 @@ sections:
         - title: Funding
           description: Up to 10K fund to support startups in prototyping and business
             development.
-  - infopic:
-      title: Temasek Launchpad
-      id: infopic
-      description: We offers support, resources, and networking opportunities for
-        budding entrepreneurs.
-      button: Read more
-      url: https://staging.d3qhfmy477grha.amplifyapp.com/what-we-offer/
-      alt: Image alt text
-      image: /images/Screenshot_2024_04_04_090303.png
-      subtitle: our startup ecosystem
   - infobar:
       title: "\"Creating Tomorrow's Aspiring Innovators and Entrepreneur\""
       subtitle: Our Mission
