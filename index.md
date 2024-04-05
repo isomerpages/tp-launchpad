@@ -83,4 +83,21 @@ sections:
           description: Find out more how you can join vibrant community!
           linktext: Learn more
           url: ""
+  - textcards:
+      title: What's Happening
+      subtitle: Key insights, startup success
+      id: textcards
+      cards:
+        - title: Tik Tok Workshop
+          description: Join us on latest social media marketing strategies using TikTok.
+          linktext: "Register "
+          url: https://staging.d3qhfmy477grha.amplifyapp.com/tik-tok-workshop/
+        - title: Card
+          description: Card description
+          linktext: Learn more
+          url: ""
+        - title: Card
+          description: Card description
+          linktext: Learn more
+          url: ""
 ---
