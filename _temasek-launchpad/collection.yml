@@ -2,9 +2,9 @@ collections:
   temasek-launchpad:
     output: true
     order:
+      - What's Happening.md
+      - Events & Programme.md
       - Our Startups.md
       - Innov8.md
       - TPEC.md
-      - What's Happening.md
-      - Events & Programme.md
       - Overseas Study Trip.md
