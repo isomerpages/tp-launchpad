@@ -24,10 +24,11 @@ sections:
           description: Resource Hub
           url: ""
   - infopic:
-      title: INNOVATION AND ENTREPRENEURSHIP
+      title: Temasek Launchpad @ TP
       id: infopic
-      description: We offers support, resources, and networking opportunities for
-        budding entrepreneurs.
+      description: We operate within the innovation and entrepreneurship sector in
+        Temasek Polytechnic, providing support and resources for budding
+        innovators and entrepreneurs.
       button: Read more
       url: https://staging.d3qhfmy477grha.amplifyapp.com/what-we-offer/
       alt: Image alt text
