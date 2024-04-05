@@ -2,7 +2,6 @@ collections:
   innovation:
     output: true
     order:
-      - Projects.md
       - Our Coaches.md
       - Workshops.md
       - Makerspace.md
