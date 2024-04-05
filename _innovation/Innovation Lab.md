@@ -4,4 +4,4 @@ permalink: /innovation-lab/
 variant: tiptap
 description: ""
 ---
-<p></p>
+<p>Not sure if this is a separate entity from Makerspace</p>
