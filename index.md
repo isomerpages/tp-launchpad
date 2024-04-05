@@ -23,15 +23,34 @@ sections:
         - title: Facilities
           description: Resource Hub
           url: ""
+  - infocols:
+      title: What We Offer
+      subtitle: Path to your success
+      id: infocols
+      linktext: Learn more
+      infoboxes:
+        - title: Comprehensive Training
+          description: 3 incubation programs designed to nurture your idea to prototype,
+            launch, and grow your startup with support.
+        - title: Mentoring and Network
+          description: Get business advice from our industry mentors, build strong network
+            from the industry.
+        - title: Facilities Support
+          description: Equipment for prototyping and product development. Spaces to work
+            on your idea and collaboration.
+        - title: Funding
+          description: Up to 10K fund to support startups in prototyping and business
+            development.
   - infopic:
-      title: Innovation and Entrepreneurship
+      title: Temasek Launchpad
       id: infopic
       description: We offers support, resources, and networking opportunities for
         budding entrepreneurs.
-      button: What we offer
+      button: Read more
       url: https://staging.d3qhfmy477grha.amplifyapp.com/what-we-offer/
       alt: Image alt text
       image: /images/Screenshot_2024_04_04_090303.png
+      subtitle: our startup ecosystem
   - infobar:
       title: "\"Creating Tomorrow's Aspiring Innovators and Entrepreneur\""
       subtitle: Our Mission
@@ -83,22 +102,4 @@ sections:
           description: Find out more how you can join vibrant community!
           linktext: Learn more
           url: ""
-  - infocols:
-      title: What We Offer
-      subtitle: Path to your success
-      id: infocols
-      linktext: Learn more
-      infoboxes:
-        - title: Comprehensive Training
-          description: 3 incubation programs designed to nurture your idea to prototype,
-            launch, and grow your startup with support.
-        - title: Mentoring and Network
-          description: Get business advice from our industry mentors, build strong network
-            from the industry.
-        - title: Facilities Support
-          description: Equipment for prototyping and product development. Spaces to work
-            on your idea and collaboration.
-        - title: Funding
-          description: Up to 10K fund to support startups in prototyping and business
-            development.
 ---
