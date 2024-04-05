@@ -97,4 +97,8 @@ sections:
           description: Find out more how you can join vibrant community!
           linktext: Learn more
           url: ""
+        - title: Partnership
+          description: Are you an industry company interested in partnering with us?
+          linktext: Learn more
+          url: ""
 ---
