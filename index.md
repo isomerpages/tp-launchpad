@@ -83,4 +83,19 @@ sections:
           description: Find out more how you can join vibrant community!
           linktext: Learn more
           url: ""
+  - infocols:
+      title: What We Offer
+      subtitle: Path to your success
+      id: infocols
+      linktext: Learn more
+      infoboxes:
+        - title: Comprehensive Training
+          description: 3 incubation programs designed to nurture your idea to prototype,
+            launch, and grow your startup with support.
+        - title: Mentoring and Network
+          description: Get business advice from our industry mentors, build strong network
+            from the industry
+        - title: Facilities Support
+          description: Equipment for prototyping and product development. Spaces to work
+            on your idea and collaboration.
 ---
