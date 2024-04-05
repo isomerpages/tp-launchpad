@@ -33,7 +33,7 @@ sections:
       alt: Image alt text
       image: /images/Screenshot_2024_04_04_090303.png
   - infobar:
-      title: '"Innovate. Entrepreneur. Prosper."'
+      title: "\"Creating Tomorrow's Aspiring Innovators and Entrepreneur\""
       subtitle: Our Mission
       id: infobar
       description: "- Director of Innovation and Entrepreneurship"
