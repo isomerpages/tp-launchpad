@@ -94,9 +94,9 @@ sections:
       id: textcards
       description: There are various ways to reach out to us.
       cards:
-        - title: Chat TLP
-          description: Temasek Innovation and Entrepreneurship's Business Advisory and
-            Clinic Session
+        - title: Chat with TLP
+          description: Chat with Temasek Launchpad's mentor on business advisory and
+            clinic session
           linktext: Learn more
           url: https://
         - title: Join Our Community
