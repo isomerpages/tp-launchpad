@@ -2,6 +2,7 @@ collections:
   temasek-launchpad:
     output: true
     order:
+      - TPEC.md
       - Our Startups.md
       - What's Happening.md
       - Events & Programme.md
