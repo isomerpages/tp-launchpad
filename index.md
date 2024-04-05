@@ -7,7 +7,7 @@ permalink: /
 notification: Here's a notification bar you can use!
 sections:
   - hero:
-      title: INNOVATION AND ENTREPRENEURSHIP
+      title: Temasek Launchpad
       background: /images/hero-banner.png
       url: /contact-us/
       key_highlights:
@@ -25,7 +25,7 @@ sections:
           url: ""
       subtitle: need to show an image that  Temasek launchpad is under TP and IED
   - infopic:
-      title: Temasek Launchpad @ TP
+      title: Temasek Launchpad
       id: infopic
       description: We operate within the innovation and entrepreneurship sector in
         Temasek Polytechnic, providing support and resources for budding
