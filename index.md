@@ -79,7 +79,7 @@ sections:
       description: Our bold startups dare to strap themselves in and launch into the
         unknown.
       button: See all startups
-      url: https://
+      url: /our-startups/
       alt: Image alt text
       image: /images/Screenshot_2024_04_04_090755.png
   - textcards:
