@@ -94,8 +94,11 @@ sections:
             launch, and grow your startup with support.
         - title: Mentoring and Network
           description: Get business advice from our industry mentors, build strong network
-            from the industry
+            from the industry.
         - title: Facilities Support
           description: Equipment for prototyping and product development. Spaces to work
             on your idea and collaboration.
+        - title: Funding
+          description: Up to 10K fund to support startups in prototyping and business
+            development.
 ---
