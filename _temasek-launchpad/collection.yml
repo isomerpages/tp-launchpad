@@ -2,10 +2,10 @@ collections:
   temasek-launchpad:
     output: true
     order:
-      - Projects.md
       - Our Startups.md
       - Innov8.md
       - TPEC.md
       - What's Happening.md
       - Events & Programme.md
+      - Projects.md
       - Overseas Study Trip.md
