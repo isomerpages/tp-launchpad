@@ -8,7 +8,7 @@ notification: Here's a notification bar you can use!
 sections:
   - hero:
       title: Temasek Launchpad
-      background: /images/hero-banner.png
+      background: /images/Screenshot_2024_04_04_090303.png
       url: /contact-us/
       key_highlights:
         - title: Innovation
@@ -23,7 +23,10 @@ sections:
         - title: Facilities
           description: Resource Hub
           url: ""
-      subtitle: need to show an image that  Temasek launchpad is under TP and IED
+      subtitle: We operate within the innovation and entrepreneurship sector in
+        Temasek Polytechnic, providing support and resources for budding
+        innovators and entrepreneurs.
+      button: who are we
   - infopic:
       title: Temasek Launchpad
       id: infopic
