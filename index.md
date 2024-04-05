@@ -27,17 +27,6 @@ sections:
         Temasek Polytechnic, providing support and resources for budding
         innovators and entrepreneurs.
       button: who are we
-  - infopic:
-      title: Temasek Launchpad
-      id: infopic
-      description: We operate within the innovation and entrepreneurship sector in
-        Temasek Polytechnic, providing support and resources for budding
-        innovators and entrepreneurs.
-      button: Read more
-      url: https://staging.d3qhfmy477grha.amplifyapp.com/what-we-offer/
-      alt: Image alt text
-      image: /images/Screenshot_2024_04_04_090303.png
-      subtitle: who are we
   - infocols:
       title: What We Offer
       subtitle: Path to your success
