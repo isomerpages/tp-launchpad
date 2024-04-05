@@ -9,7 +9,7 @@ sections:
   - hero:
       title: Temasek Launchpad
       background: /images/Screenshot_2024_04_04_090303.png
-      url: /contact-us/
+      url: /who-are-we/
       key_highlights:
         - title: Innovation
           description: Start Imagine and Create
