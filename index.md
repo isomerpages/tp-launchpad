@@ -34,7 +34,7 @@ sections:
         to learn, create, and grow.
       button: Learn More
       url: https://
-      image: /images/Whatweoffer.png
+      image: /images/Whatweoffer.jpg
       alt: Image alt text
   - infocols:
       title: What We Offer
