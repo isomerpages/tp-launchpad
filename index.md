@@ -28,7 +28,6 @@ sections:
       button: who are we
   - infopic:
       title: What We Offer
-      subtitle: Path To Your Success
       id: infopic
       description: Temasek Launchpad offers 3 spaces for innovators and entrepreneurs
         to learn, create, and grow.
@@ -36,23 +35,6 @@ sections:
       url: https://
       image: /images/Whatweoffer.jpg
       alt: Image alt text
-  - infocols:
-      title: What We Offer
-      id: infocols
-      linktext: Learn more
-      infoboxes:
-        - title: Comprehensive Training
-          description: 3 incubation programs designed to nurture your idea to prototype,
-            launch, and grow your startup with support.
-        - title: Mentoring and Network
-          description: Get business advice from our industry mentors, build strong network
-            from the industry.
-        - title: Facilities Support
-          description: Equipment for prototyping and product development. Spaces to work
-            on your idea and collaboration.
-        - title: Funding
-          description: Up to 10K fund to support startups in prototyping and business
-            development.
   - infopic:
       title: "\"Creating Tomorrow's Aspiring Innovators and Entrepreneur\""
       subtitle: Our Mission
