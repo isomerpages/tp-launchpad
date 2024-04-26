@@ -38,7 +38,6 @@ sections:
       alt: Image alt text
   - infocols:
       title: What We Offer
-      subtitle: Path to your success
       id: infocols
       linktext: Learn more
       infoboxes:
