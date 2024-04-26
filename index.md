@@ -10,18 +10,18 @@ sections:
       background: /images/Screenshot_2024_04_05_123908.png
       url: /who-are-we/
       key_highlights:
-        - title: Innovation
+        - title: Academic Space
           description: Start Imagine and Create
           url: https://staging.d3qhfmy477grha.amplifyapp.com/projects/
-        - title: Entrepreneurship
+        - title: Incubation Space
           description: Be A Business Pioneer
           url: https://staging.d3qhfmy477grha.amplifyapp.com/funding-grants/
+        - title: Maker Space +
+          description: Resource Hub
+          url: https://staging.d3qhfmy477grha.amplifyapp.com/makerspace-facilities/
         - title: Temasek Launchpad
           description: Our Community
           url: https://staging.d3qhfmy477grha.amplifyapp.com/our-startups/
-        - title: Facilities
-          description: Resource Hub
-          url: https://staging.d3qhfmy477grha.amplifyapp.com/makerspace-facilities/
       subtitle: We operate within the innovation and entrepreneurship sector in
         Temasek Polytechnic, providing support and resources for budding
         innovators and entrepreneurs.
