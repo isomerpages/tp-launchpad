@@ -1,14 +1,2 @@
 logo: /images/isomer-logo.svg
-links:
-  - title: What We Offer
-    url: /what-we-offer/
-  - title: Innovation
-    collection: innovation
-  - title: Entrepreneurship
-    collection: entrepreneurship
-  - title: Temasek Launchpad
-    collection: temasek-launchpad
-  - title: Facilities
-    collection: facilities
-  - title: Connect
-    url: /contact-us/
+links: []
