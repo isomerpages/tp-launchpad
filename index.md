@@ -30,8 +30,8 @@ sections:
       title: What We Offer
       subtitle: Path To Your Success
       id: infopic
-      description: Temasek Launchpad offers spaces for innovators and entrepreneurs to
-        learn, create, and grow.
+      description: Temasek Launchpad offers 3 spaces for innovators and entrepreneurs
+        to learn, create, and grow.
       button: Learn More
       url: https://
       image: /images/Whatweoffer.png
