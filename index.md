@@ -26,6 +26,16 @@ sections:
         Temasek Polytechnic, providing support and resources for budding
         innovators and entrepreneurs.
       button: who are we
+  - infopic:
+      title: What We Offer
+      subtitle: Path To Your Success
+      id: infopic
+      description: Temasek Launchpad offers spaces for innovators and entrepreneurs to
+        learn, create, and grow.
+      button: Learn More
+      url: https://
+      image: /images/Whatweoffer.png
+      alt: Image alt text
   - infocols:
       title: What We Offer
       subtitle: Path to your success
