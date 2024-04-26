@@ -11,7 +11,7 @@ sections:
       url: /who-are-we/
       key_highlights:
         - title: Academic Space
-          description: Startup Skills Academy
+          description: Get Startup Skills
           url: https://staging.d3qhfmy477grha.amplifyapp.com/projects/
         - title: Incubation Space
           description: Temasek Launchpad
