@@ -16,14 +16,9 @@ locations:
     title: Temasek Launchpad
 contacts:
   - content:
-      - phone: +65 6123 4567
-      - email: enquiries@abc.gov.sg
-      - other: Any text here <i>including HTML</i>
-    title: General Enquiries & Feedback
-  - content:
       - phone: ""
-      - email: careers@abc.gov.sg
+      - email: I&E@tp.edu.sg
       - other: ""
-    title: Careers
+    title: General Enquiries & Feedback
 feedback: ""
 ---
