@@ -2,6 +2,7 @@ collections:
   entrepreneurship:
     output: true
     order:
+      - CET Programme.md
       - Funding & Grants.md
       - Mentorship.md
       - Programmes.md
