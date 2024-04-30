@@ -32,7 +32,7 @@ sections:
       description: Temasek Launchpad offers 3 spaces for innovators and entrepreneurs
         to learn, create, and grow.
       button: Learn More
-      url: https://
+      url: https://www.tp.edu.sg/what-we-offer/
       image: /images/Whatweoffer.jpg
       alt: Image alt text
   - infopic:
@@ -70,7 +70,7 @@ sections:
       description: Our bold startups dare to strap themselves in and launch into the
         unknown.
       button: See all startups
-      url: /our-startups/
+      url: https://www.tp.edu.sg/our-startups/
       alt: Image alt text
       image: /images/Screenshot_2024_04_04_090755.png
   - textcards:
@@ -83,13 +83,13 @@ sections:
           description: Chat with Temasek Launchpad's mentor on business advisory and
             clinic session
           linktext: Learn more
-          url: https://
+          url: https://www.tp.edu.sg/mentorship/
         - title: Join Our Community
           description: Find out more how you can join vibrant community!
           linktext: Learn more
-          url: ""
+          url: https://www.tp.edu.sg/connect/
         - title: Partnership
           description: Are you an industry company interested in partnering with us?
           linktext: Learn more
-          url: ""
+          url: https://www.tp.edu.sg/partnership/
 ---
