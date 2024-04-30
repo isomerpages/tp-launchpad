@@ -3,7 +3,7 @@ url: https://www.tp.edu.sg
 favicon: /images/favicon-isomer.ico
 colors:
   primary-color: "#192260"
-  secondary-color: "#6b789e"
+  secondary-color: "#192260"
   media-colors:
     - title: media-color-one
       color: "#f8a200"
