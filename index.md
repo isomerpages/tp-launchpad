@@ -15,13 +15,13 @@ sections:
           url: https://staging.d3qhfmy477grha.amplifyapp.com/projects/
         - title: Incubation Space
           description: Temasek Launchpad
-          url: /incubation-space/
+          url: Nurture and Grow
         - title: Maker Space +
           description: Start Imagine and Create
-          url: https://staging.d3qhfmy477grha.amplifyapp.com/makerspace-facilities/
+          url: /makerspace/
         - title: Connect
           description: Reach Out To Us
-          url: https://staging.d3qhfmy477grha.amplifyapp.com/our-startups/
+          url: /connect/
       subtitle: We operate within the innovation and entrepreneurship sector in
         Temasek Polytechnic, providing support and resources for budding
         innovators and entrepreneurs.
