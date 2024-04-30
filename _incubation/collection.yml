@@ -2,10 +2,10 @@ collections:
   incubation:
     output: true
     order:
-      - Incubation.md
       - Branding, Marketing and Outreach.md
       - AI initiative.md
       - Chat TLP Mentorship.md
+      - Incubation.md
       - Food Innovation and Entrepreneurship.md
       - Entrepreneur Spectrum Series.md
       - Preseed Funding.md
