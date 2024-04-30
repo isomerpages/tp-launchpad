@@ -2,6 +2,7 @@ collections:
   connect:
     output: true
     order:
+      - Partnership.md
       - What's Happening.md
       - Events & Programme.md
       - Our Startups.md
