@@ -3,5 +3,4 @@ collections:
     output: true
     order:
       - CET Programme.md
-      - Mentorship.md
       - Programmes.md
