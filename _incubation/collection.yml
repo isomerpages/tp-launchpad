@@ -1,5 +1,5 @@
 collections:
-  temasek-launchpad:
+  incubation:
     output: true
     order:
       - What's Happening.md
