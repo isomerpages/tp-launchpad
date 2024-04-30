@@ -36,7 +36,7 @@ sections:
       image: /images/Whatweoffer.jpg
       alt: Image alt text
   - infopic:
-      title: "\"Creating Tomorrow's Aspiring Innovators and Entrepreneur\""
+      title: "\"Creating Tomorrow's Aspiring Innovators and Entrepreneurs\""
       subtitle: Our Mission
       id: infopic
       description: "- Director of Innovation and Entrepreneurship"
