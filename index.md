@@ -1,6 +1,6 @@
 ---
 layout: homepage
-title: Innovation and Entrepreneurship
+title: Temasek Polytechnic
 description: An Isomer site of the Singapore Government
 image: /images/isomer-logo.svg
 permalink: /
