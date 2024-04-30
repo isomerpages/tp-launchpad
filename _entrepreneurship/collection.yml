@@ -2,9 +2,9 @@ collections:
   entrepreneurship:
     output: true
     order:
-      - Overseas Study Trip.md
-      - Launcher Programme.md
-      - Originator Programme.md
       - INNOVA.md
-      - CET Programme.md
       - Venturer Programme.md
+      - Originator Programme.md
+      - Launcher Programme.md
+      - CET Programme.md
+      - Overseas Study Trip.md
