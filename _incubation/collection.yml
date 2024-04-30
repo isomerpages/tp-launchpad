@@ -2,9 +2,9 @@ collections:
   incubation:
     output: true
     order:
-      - Entrepreneur Spectrum Series.md
-      - Chat TLP Mentorship.md
-      - Preseed Funding.md
       - Branding, Marketing and Outreach.md
       - AI initiative.md
+      - Chat TLP Mentorship.md
       - Food Innovation and Entrepreneurship.md
+      - Entrepreneur Spectrum Series.md
+      - Preseed Funding.md
