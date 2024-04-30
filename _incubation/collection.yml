@@ -2,6 +2,7 @@ collections:
   incubation:
     output: true
     order:
+      - Incubation.md
       - Branding, Marketing and Outreach.md
       - AI initiative.md
       - Chat TLP Mentorship.md
