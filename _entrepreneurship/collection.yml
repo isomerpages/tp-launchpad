@@ -2,5 +2,6 @@ collections:
   entrepreneurship:
     output: true
     order:
+      - INNOVA.md
       - CET Programme.md
       - Venturer Programme.md
