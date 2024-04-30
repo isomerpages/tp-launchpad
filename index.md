@@ -15,7 +15,7 @@ sections:
           url: https://staging.d3qhfmy477grha.amplifyapp.com/projects/
         - title: Incubation Space
           description: Temasek Launchpad
-          url: https://staging.d3qhfmy477grha.amplifyapp.com/funding-grants/
+          url: /incubation-space/
         - title: Maker Space +
           description: Start Imagine and Create
           url: https://staging.d3qhfmy477grha.amplifyapp.com/makerspace-facilities/
