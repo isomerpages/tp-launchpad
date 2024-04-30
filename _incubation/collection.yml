@@ -2,7 +2,7 @@ collections:
   incubation:
     output: true
     order:
-      - Mentorship.md
+      - Chat TLP Mentorship.md
       - Funding & Grants.md
       - Our Startups.md
       - Innov8.md
