@@ -2,8 +2,8 @@ collections:
   entrepreneurship:
     output: true
     order:
-      - Innov8 Competition.md
       - INNOVA.md
+      - Innov8 Competition.md
       - Venturer Programme.md
       - Originator Programme.md
       - Launcher Programme.md
