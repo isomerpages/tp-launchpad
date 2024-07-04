@@ -8,7 +8,6 @@ notification: Here's a notification bar you can use!
 sections:
   - hero:
       background: /images/Innovation_and_Entreprenuership_Gif.gif
-      url: /who-are-we/
       key_highlights:
         - title: Academic Space
           description: Get Startup Skills
@@ -25,7 +24,7 @@ sections:
       subtitle: We operate within the innovation and entrepreneurship sector in
         Temasek Polytechnic, providing support and resources for budding
         innovators and entrepreneurs.
-      button: who are we
+      variant: center
   - infopic:
       title: What We Offer
       id: infopic
