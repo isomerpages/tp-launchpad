@@ -28,6 +28,16 @@ sections:
             sell and you going to buy!
           link_text: Find out more
           link_url: https://
+  - infopic:
+      title: Our Startups
+      subtitle: Discover
+      id: infopic
+      description: Discover the inspiring journeys of startups that have thrived with
+        our support.
+      button: See all startups
+      url: /our-startups/
+      alt: Image alt text
+      image: /images/Screenshot_2024_04_04_090755.png
   - resources:
       title: What's Happening
       subtitle: Events
@@ -40,16 +50,6 @@ sections:
       description: "- Director of Innovation and Entrepreneurship"
       image: /images/hero-banner.png
       alt: Image alt text
-  - infopic:
-      title: Startups Supported
-      subtitle: See it yourself
-      id: infopic
-      description: Discover the inspiring journeys of startups that have thrived with
-        our support.
-      button: See all startups
-      url: /our-startups/
-      alt: Image alt text
-      image: /images/Screenshot_2024_04_04_090755.png
   - textcards:
       title: Connect
       subtitle: Inspire,Innovate,Collaborate!
