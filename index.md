@@ -12,15 +12,11 @@ sections:
         Temasek Polytechnic, providing support and resources for budding
         innovators and entrepreneurs.
       variant: center
-  - infopic:
-      title: What We Offer
-      id: infopic
-      description: Temasek Launchpad offers 3 spaces for innovators and entrepreneurs
-        to learn, create, and grow.
-      button: Learn More
-      url: /what-we-offer/
-      image: /images/Whatweoffer.jpg
-      alt: Image alt text
+  - resources:
+      title: What's Happening
+      subtitle: Events
+      id: resources
+      button: Read More
   - infopic:
       title: "\"Creating Tomorrow's Aspiring Innovators and Entrepreneurs\""
       subtitle: Our Mission
@@ -28,11 +24,6 @@ sections:
       description: "- Director of Innovation and Entrepreneurship"
       image: /images/hero-banner.png
       alt: Image alt text
-  - resources:
-      title: What's Happening
-      subtitle: Key insights, startup success.
-      id: resources
-      button: Read More
   - announcements:
       title: Events and Programme
       id: announcements
