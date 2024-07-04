@@ -1,5 +1,14 @@
 logo: /images/isomer-logo.svg
 links:
-  - title: WHO ARE WE
+  - title: Who Are We
     url: /permalink
     sublinks: []
+  - title: Achievements and Impact
+    url: /permalink
+    sublinks:
+      - title: Alumni Success Stories
+        url: /permalink
+      - title: Industry Partnership
+        url: /permalink
+      - title: Community Impact
+        url: /permalink
