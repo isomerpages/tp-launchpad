@@ -38,11 +38,6 @@ sections:
       url: /our-startups/
       alt: Image alt text
       image: /images/Screenshot_2024_04_04_090755.png
-  - resources:
-      title: What's Happening
-      subtitle: Events
-      id: resources
-      button: Read More
   - infopic:
       title: "\"Creating Tomorrow's Aspiring Innovators and Entrepreneurs\""
       subtitle: Our Mission
@@ -56,13 +51,8 @@ sections:
       id: textcards
       description: There are various ways to reach out to us.
       cards:
-        - title: Chat with TLP
-          description: Chat with Temasek Launchpad's mentor on business advisory and
-            clinic session
-          linktext: Learn more
-          url: /chat-tlp-mentorship/
-        - title: Join Our Community
-          description: Find out more how you can join vibrant community!
+        - title: Contact Us
+          description: Find out more how you can contact us!
           linktext: Learn more
           url: /connect/
         - title: Partnership
