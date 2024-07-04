@@ -12,22 +12,10 @@ sections:
         Temasek Polytechnic, providing support and resources for budding
         innovators and entrepreneurs.
       variant: center
-  - resources:
-      title: What's Happening
-      subtitle: Events
-      id: resources
-      button: Read More
-  - infopic:
-      title: "\"Creating Tomorrow's Aspiring Innovators and Entrepreneurs\""
-      subtitle: Our Mission
-      id: infopic
-      description: "- Director of Innovation and Entrepreneurship"
-      image: /images/hero-banner.png
-      alt: Image alt text
   - announcements:
-      title: Events and Programme
+      title: What's Happening
       id: announcements
-      subtitle: Learn and grow
+      subtitle: News and Events
       announcement_items:
         - title: Originator Programme
           date: 02 September 2024
@@ -40,12 +28,24 @@ sections:
             sell and you going to buy!
           link_text: Find out more
           link_url: https://
+  - resources:
+      title: What's Happening
+      subtitle: Events
+      id: resources
+      button: Read More
   - infopic:
-      title: Their Journey Starts Here
+      title: "\"Creating Tomorrow's Aspiring Innovators and Entrepreneurs\""
+      subtitle: Our Mission
+      id: infopic
+      description: "- Director of Innovation and Entrepreneurship"
+      image: /images/hero-banner.png
+      alt: Image alt text
+  - infopic:
+      title: Startups Supported
       subtitle: See it yourself
       id: infopic
-      description: Our bold startups dare to strap themselves in and launch into the
-        unknown.
+      description: Discover the inspiring journeys of startups that have thrived with
+        our support.
       button: See all startups
       url: /our-startups/
       alt: Image alt text
