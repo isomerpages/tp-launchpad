@@ -6,9 +6,18 @@ links:
   - title: Achievements and Impact
     url: /permalink
     sublinks:
-      - title: Alumni Success Stories
-        url: /permalink
       - title: Industry Partnership
         url: /permalink
       - title: Community Impact
+        url: /permalink
+      - title: Alumni Success Stories
+        url: /permalink
+      - title: Recognition and Award
+        url: /permalink
+  - title: Partnership
+    url: /permalink
+    sublinks:
+      - title: Startup Ecosystem
+        url: /permalink
+      - title: Engagement
         url: /permalink
