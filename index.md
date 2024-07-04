@@ -38,13 +38,6 @@ sections:
       url: /our-startups/
       alt: Image alt text
       image: /images/Screenshot_2024_04_04_090755.png
-  - infopic:
-      title: "\"Creating Tomorrow's Aspiring Innovators and Entrepreneurs\""
-      subtitle: Our Mission
-      id: infopic
-      description: "- Director of Innovation and Entrepreneurship"
-      image: /images/hero-banner.png
-      alt: Image alt text
   - textcards:
       title: Connect
       subtitle: Inspire,Innovate,Collaborate!
