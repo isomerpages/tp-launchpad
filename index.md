@@ -42,7 +42,6 @@ sections:
       title: Connect
       subtitle: Inspire,Innovate,Collaborate!
       id: textcards
-      description: There are various ways to reach out to us.
       cards:
         - title: Contact Us
           description: Find out more how you can contact us!
