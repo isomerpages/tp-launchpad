@@ -2,7 +2,6 @@ logo: /images/isomer-logo.svg
 links:
   - title: Who Are We
     url: /permalink
-    sublinks: []
   - title: Achievements and Impact
     url: /permalink
     sublinks:
@@ -21,3 +20,16 @@ links:
         url: /permalink
       - title: Engagement
         url: /permalink
+  - title: Resources and Support
+    url: /permalink
+    sublinks:
+      - title: Facilities
+        url: /permalink
+      - title: Consultancy and Mentorship
+        url: /permalink
+      - title: Fund
+        url: /permalink
+      - title: Programmes
+        url: /permalink
+  - title: Events
+    url: /permalink
