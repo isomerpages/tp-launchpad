@@ -8,19 +8,6 @@ notification: Here's a notification bar you can use!
 sections:
   - hero:
       background: /images/Innovation_and_Entreprenuership_Gif.gif
-      key_highlights:
-        - title: Academic Space
-          description: Get Startup Skills
-          url: /innova/
-        - title: Incubation Space
-          description: Nurture and Grow
-          url: /branding-marketing-and-outreach/
-        - title: Maker Space +
-          description: Start Imagine and Create
-          url: /makerspace/
-        - title: Connect
-          description: Reach Out To Us
-          url: /what-s-happening/
       subtitle: We operate within the innovation and entrepreneurship sector in
         Temasek Polytechnic, providing support and resources for budding
         innovators and entrepreneurs.
