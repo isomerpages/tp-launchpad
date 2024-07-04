@@ -56,7 +56,7 @@ sections:
           linktext: Learn more
           url: /connect/
         - title: Partnership
-          description: Are you an industry company interested in partnering with us?
+          description: Are you interested in partnering with us?
           linktext: Learn more
           url: /partnership/
 ---
