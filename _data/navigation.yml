@@ -7,9 +7,9 @@ links:
     sublinks:
       - title: Industry Partnership
         url: /permalink
-      - title: Community Impact
-        url: /permalink
       - title: Alumni Success Stories
+        url: /permalink
+      - title: Community Impact
         url: /permalink
       - title: Recognition and Award
         url: /permalink
@@ -23,11 +23,11 @@ links:
   - title: Resources and Support
     url: /permalink
     sublinks:
+      - title: Fund
+        url: /permalink
       - title: Facilities
         url: /permalink
       - title: Consultancy and Mentorship
-        url: /permalink
-      - title: Fund
         url: /permalink
       - title: Programmes
         url: /permalink
