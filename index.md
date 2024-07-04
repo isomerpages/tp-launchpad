@@ -7,7 +7,7 @@ permalink: /
 notification: Here's a notification bar you can use!
 sections:
   - hero:
-      background: /images/Screenshot_2024_04_05_123908.png
+      background: /images/Innovation_and_Entreprenuership_Gif.gif
       url: /who-are-we/
       key_highlights:
         - title: Academic Space
