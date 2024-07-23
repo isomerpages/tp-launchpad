@@ -1,4 +1,4 @@
-title: Temasek Polytechnic
+title: Temasek Launchpad @ TP
 url: https://www.tp.edu.sg
 favicon: /images/favicon-isomer.ico
 colors:
@@ -15,7 +15,7 @@ colors:
       color: "#f64f00"
     - title: media-color-five
       color: "#ddab00"
-description: An Isomer site of the Singapore Government
+description: ""
 permalink: none
 baseurl: ""
 exclude:
