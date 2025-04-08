@@ -27,12 +27,13 @@ sections:
       button: Button Text
       alt: Image alt text
   - infopic:
-      title: Infopic
-      subtitle: Add an image and text
+      title: Innovation  Programmes
+      subtitle: ""
       id: infopic
       description: Infopic description
       button: Button Text
       alt: Image alt text
+      image: /images/info_pic_home_page_07.jpg
   - textcards:
       title: Connect with us
       subtitle: Inspire,Innovate,Collaborate!
