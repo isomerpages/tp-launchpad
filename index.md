@@ -2,7 +2,7 @@
 layout: homepage
 title: Temasek Launchpad @ TP
 description: An Isomer site of the Singapore Government
-image: /images/TP_Logo.png
+image: /images/Temasek_Launchpad_logo_04_04.png
 permalink: /
 notification: Here's a notification bar you can use!
 sections:
