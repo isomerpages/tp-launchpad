@@ -29,7 +29,6 @@ sections:
       url: Innovation
   - infopic:
       title: Entrepreneurship Programme
-      subtitle: ""
       id: infopic
       description: Infopic description
       button: Learn more
