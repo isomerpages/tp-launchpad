@@ -20,20 +20,22 @@ sections:
       url: academic
       image: /images/info_pic_home_page_06.png
   - infopic:
-      title: Infopic
-      subtitle: Add an image and text
+      title: Innovation  Programmes
       id: infopic
       description: Infopic description
-      button: Button Text
+      button: Learn more
       alt: Image alt text
+      image: /images/info_pic_home_page_07.jpg
+      url: Innovation
   - infopic:
-      title: Innovation  Programmes
+      title: Entrepreneurship Programme
       subtitle: ""
       id: infopic
       description: Infopic description
-      button: Button Text
+      button: Learn more
       alt: Image alt text
-      image: /images/info_pic_home_page_07.jpg
+      image: /images/info_pic_home_page_08.jpg
+      url: entrepreneurship
   - textcards:
       title: Connect with us
       subtitle: Inspire,Innovate,Collaborate!
