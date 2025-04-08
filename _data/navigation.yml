@@ -1,35 +1,39 @@
 logo: /images/TP_Logo.png
 links:
-  - title: Who Are We
-    url: /who-are-we/
-  - title: Achievements and Impact
+  - title: About
+    url: About
+  - title: Programmes
     url: /permalink
     sublinks:
-      - title: Industry Partnership
+      - title: Academic
         url: /permalink
-      - title: Success Stories
+      - title: Innovation
         url: /permalink
-      - title: Community Impact
+      - title: Entrepreneurship
         url: /permalink
-      - title: Recognition and Award
-        url: /permalink
-  - title: Temasek Launchpad Ecosystem
+  - title: Entrepreneurs
     url: /permalink
     sublinks:
-      - title: Startup Ecosystem
+      - title: Our Entrepreneurs
         url: /permalink
-      - title: How to Engage Us
+      - title: Start-up Founder's Story
         url: /permalink
-  - title: Resources and Support
+  - title: Spaces
     url: /permalink
     sublinks:
-      - title: Apply For Fund
+      - title: Evolve Room
         url: /permalink
-      - title: Our Facilities
+      - title: Digital Solutions Lab (DSL)
         url: /permalink
-      - title: Consultancy and Mentorship
+      - title: Fabric Lab
         url: /permalink
-      - title: Programmes
+      - title: Video/Photo Lab
         url: /permalink
-  - title: News and Events
+      - title: Audio Lab
+        url: /permalink
+  - title: Awards
+    url: /permalink
+  - title: Events
+    url: /permalink
+  - title: Contact
     url: /permalink
