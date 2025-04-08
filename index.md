@@ -12,6 +12,13 @@ sections:
         Temasek Polytechnic, providing support and resources for budding
         innovators and entrepreneurs.
       variant: image
+  - infopic:
+      title: Academic Programmes
+      id: infopic
+      description: Awareness & Interest in I&E
+      button: Learn more
+      url: academic
+      image: /images/info_pic_home_page_06.png
   - textcards:
       title: Connect with us
       subtitle: Inspire,Innovate,Collaborate!
