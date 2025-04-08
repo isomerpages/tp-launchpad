@@ -4,4 +4,4 @@ permalink: /academic-programmes/
 variant: tiptap
 description: ""
 ---
-<p></p>
+<p>hi this is for academic programme</p>
