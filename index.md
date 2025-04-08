@@ -25,34 +25,8 @@ sections:
         - title: Key Highlight Title
           description: Key Highlight description
           url: ""
-  - announcements:
-      title: What's Happening
-      id: announcements
-      subtitle: News and Events
-      announcement_items:
-        - title: Originator Programme
-          date: 02 September 2024
-          announcement: Join us for the originator programme....
-          link_text: Register Now
-          link_url: http://
-        - title: Temasek Launchpad Festival 2024
-          date: 01 December 2024
-          announcement: See us at the Temasek Polytechnic concourse level 3! We going to
-            sell and you going to buy!
-          link_text: Find out more
-          link_url: https://
-  - infopic:
-      title: Our Startups
-      subtitle: Discover
-      id: infopic
-      description: Discover the inspiring journeys of startups that have thrived with
-        our support.
-      button: See all startups
-      url: /our-startups/
-      alt: Image alt text
-      image: /images/Screenshot_2024_07_23_092224_removebg_preview.png
   - textcards:
-      title: Connect
+      title: Connect with us
       subtitle: Inspire,Innovate,Collaborate!
       id: textcards
       cards:
@@ -64,4 +38,8 @@ sections:
           description: Are you interested in partnering with us?
           linktext: Learn more
           url: /partnership/
+        - title: Card
+          description: Card description
+          linktext: Learn more
+          url: ""
 ---
