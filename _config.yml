@@ -2,19 +2,19 @@ title: Temasek Launchpad @ TP
 url: https://www.tp.edu.sg
 favicon: /images/favicon.png
 colors:
-  primary-color: "#192260"
-  secondary-color: "#192260"
+  primary-color: "#1b0f2a"
+  secondary-color: "#8328ff"
   media-colors:
     - title: media-color-one
-      color: "#f8a200"
+      color: "#f57f20"
     - title: media-color-two
-      color: "#379f86"
+      color: "#eb008b"
     - title: media-color-three
-      color: "#154385"
+      color: "#0086ff"
     - title: media-color-four
-      color: "#f64f00"
+      color: "#fffaf5"
     - title: media-color-five
-      color: "#ddab00"
+      color: "#e6e7e8"
 description: ""
 permalink: none
 baseurl: ""
@@ -53,7 +53,7 @@ staging: https://staging-lite.d1ww3f03vnzgjb.amplifyapp.com
 prod: https://master.d3qhfmy477grha.amplifyapp.com
 facebook-pixel: ""
 resources_name: test
-shareicon: /images/TP_Logo.png
+shareicon: /images/Temasek_Launchpad_logo_04_04.png
 is_government: false
 google_analytics_ga4: ""
 linkedin-insights: ""
