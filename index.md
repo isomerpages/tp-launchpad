@@ -19,6 +19,20 @@ sections:
       button: Learn more
       url: academic
       image: /images/info_pic_home_page_06.png
+  - infopic:
+      title: Infopic
+      subtitle: Add an image and text
+      id: infopic
+      description: Infopic description
+      button: Button Text
+      alt: Image alt text
+  - infopic:
+      title: Infopic
+      subtitle: Add an image and text
+      id: infopic
+      description: Infopic description
+      button: Button Text
+      alt: Image alt text
   - textcards:
       title: Connect with us
       subtitle: Inspire,Innovate,Collaborate!
