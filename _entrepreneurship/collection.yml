@@ -2,5 +2,5 @@ collections:
   entrepreneurship:
     output: true
     order:
-      - Start Up Founders Story.md
       - Our Entrepreneurs.md
+      - Start Up Founders Story.md
