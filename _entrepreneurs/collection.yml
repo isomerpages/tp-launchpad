@@ -1,5 +1,5 @@
 collections:
-  entrepreneurship:
+  entrepreneurs:
     output: true
     order:
       - Our Entrepreneurs.md
