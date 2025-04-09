@@ -2,8 +2,8 @@ collections:
   innovation:
     output: true
     order:
+      - Innovation Lab.md
       - Makerspace.md
       - Digital Solution Lab.md
-      - Innovation Lab.md
-      - Our Coaches.md
       - Workshops.md
+      - Our Coaches.md
