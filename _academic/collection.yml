@@ -2,6 +2,7 @@ collections:
   academic:
     output: true
     order:
+      - Overseas Study Trip.md
       - Launcher Programme.md
       - Originator Programme.md
       - CET Programme.md
