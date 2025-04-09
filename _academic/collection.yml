@@ -2,6 +2,7 @@ collections:
   academic:
     output: true
     order:
+      - Originator Programme.md
       - CET Programme.md
       - Venturer Programme.md
       - Academic Programmes.md
