@@ -1,4 +1,5 @@
 collections:
   innovation:
     output: true
-    order: []
+    order:
+      - Entrepreneurship Talks & Excursions.md
