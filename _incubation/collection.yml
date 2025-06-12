@@ -1,4 +1,5 @@
 collections:
   incubation:
     output: true
-    order: []
+    order:
+      - Adult Learners.md
