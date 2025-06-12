@@ -3,5 +3,4 @@ collections:
     output: true
     order:
       - INNOVA Subject.md
-      - CET Programme.md
       - Venturer Programme.md
