@@ -1,5 +1,4 @@
 collections:
   innovation:
     output: true
-    order:
-      - Our Coaches.md
+    order: []
