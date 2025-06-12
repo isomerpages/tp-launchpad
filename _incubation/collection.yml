@@ -1,5 +1,4 @@
 collections:
   incubation:
     output: true
-    order:
-      - Preseed Funding.md
+    order: []
