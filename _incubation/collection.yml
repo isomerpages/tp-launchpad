@@ -2,7 +2,6 @@ collections:
   incubation:
     output: true
     order:
-      - Incubation.md
       - Food Innovation and Entrepreneurship.md
       - Entrepreneur Spectrum Series.md
       - Preseed Funding.md
