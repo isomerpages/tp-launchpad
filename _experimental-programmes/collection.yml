@@ -1,5 +1,5 @@
 collections:
-  innovation:
+  experimental-programmes:
     output: true
     order:
       - Conventions.md
