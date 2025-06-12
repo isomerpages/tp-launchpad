@@ -2,7 +2,7 @@ collections:
   incubation:
     output: true
     order:
+      - Adult Learners.md
+      - Mentorship Programme.md
       - Networking Events.md
       - Pre seed Funding.md
-      - Mentorship Programme.md
-      - Adult Learners.md
