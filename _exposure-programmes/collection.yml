@@ -2,9 +2,9 @@ collections:
   exposure-programmes:
     output: true
     order:
+      - INNOVA Subject.md
+      - Co Curricular Activities/.keep
       - Co Curricular Activities/TPEC.md
       - Co Curricular Activities/SpaceHaus.md
-      - Co Curricular Activities/.keep
-      - INNOVA Subject.md
       - Student Involvement.md
       - Secondary School Programmes.md
