@@ -2,7 +2,6 @@ collections:
   incubation:
     output: true
     order:
-      - Chat TLP Mentorship.md
       - Incubation.md
       - Food Innovation and Entrepreneurship.md
       - Entrepreneur Spectrum Series.md
