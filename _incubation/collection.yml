@@ -2,7 +2,6 @@ collections:
   incubation:
     output: true
     order:
-      - AI initiative.md
       - Chat TLP Mentorship.md
       - Incubation.md
       - Food Innovation and Entrepreneurship.md
