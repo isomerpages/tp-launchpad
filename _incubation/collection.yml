@@ -2,5 +2,4 @@ collections:
   incubation:
     output: true
     order:
-      - Entrepreneur Spectrum Series.md
       - Preseed Funding.md
