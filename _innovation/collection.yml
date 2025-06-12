@@ -3,8 +3,8 @@ collections:
     output: true
     order:
       - Conventions.md
-      - Hackathons.md
-      - Founder SIP.md
-      - Overseas Study Trips.md
-      - Originator Programme.md
       - Entrepreneurship Talks & Excursions.md
+      - Founder SIP.md
+      - Hackathons.md
+      - Originator Programme.md
+      - Overseas Study Trips.md
