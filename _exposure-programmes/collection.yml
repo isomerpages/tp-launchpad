@@ -3,7 +3,6 @@ collections:
     output: true
     order:
       - INNOVA Subject.md
-      - Overseas Study Trip.md
       - Launcher Programme.md
       - Originator Programme.md
       - CET Programme.md
