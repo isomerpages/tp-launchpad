@@ -3,10 +3,10 @@ links:
   - title: About
     url: About
   - title: Programmes
-    url: /permalink
+    url: "-"
     sublinks:
       - title: Exposure Programmes
-        url: /academic-programmes/
+        url: /innova-subject/
       - title: Experimental Programmes
         url: /permalink
       - title: Entrepreneurship Programmes
