@@ -2,5 +2,6 @@ collections:
   exposure-programmes:
     output: true
     order:
+      - Student Involvement.md
       - Secondary School Programmes.md
       - INNOVA Subject.md
