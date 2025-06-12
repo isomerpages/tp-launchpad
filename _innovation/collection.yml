@@ -2,6 +2,5 @@ collections:
   innovation:
     output: true
     order:
-      - Digital Solution Lab.md
       - Workshops.md
       - Our Coaches.md
