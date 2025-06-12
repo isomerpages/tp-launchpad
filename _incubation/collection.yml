@@ -2,5 +2,6 @@ collections:
   incubation:
     output: true
     order:
+      - Pre seed Funding.md
       - Mentorship Programme.md
       - Adult Learners.md
