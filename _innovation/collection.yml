@@ -2,5 +2,6 @@ collections:
   innovation:
     output: true
     order:
+      - Overseas Study Trips.md
       - Originator Programme.md
       - Entrepreneurship Talks & Excursions.md
