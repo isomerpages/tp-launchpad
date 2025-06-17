@@ -13,24 +13,21 @@ sections:
         innovators and entrepreneurs.
       variant: image
   - infopic:
-      title: Academic Programmes
+      title: Exposure
       id: infopic
-      description: Awareness & Interest in I&E
       button: Learn more
       url: academic
       image: /images/info_pic_home_page_06.png
   - infopic:
-      title: Innovation  Programmes
+      title: Experimental
       id: infopic
-      description: Infopic description
       button: Learn more
       alt: Image alt text
       image: /images/info_pic_home_page_07.jpg
       url: Innovation
   - infopic:
-      title: Entrepreneurship Programme
+      title: Entrepreneurship
       id: infopic
-      description: Infopic description
       button: Learn more
       alt: Image alt text
       image: /images/info_pic_home_page_08.jpg
@@ -52,4 +49,12 @@ sections:
           description: Card description
           linktext: Learn more
           url: ""
+  - infocols:
+      title: Temasek Launchpad
+      subtitle: Who are we
+      id: infocols
+      linktext: Learn more
+      infoboxes:
+        - title: Infobox
+          description: Infobox description
 ---
