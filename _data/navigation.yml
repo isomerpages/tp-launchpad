@@ -1,15 +1,13 @@
 logo: /images/Temasek_Launchpad_logo_Colour_04.png
 links:
-  - title: About
-    url: About
   - title: Programmes
     url: "-"
     sublinks:
-      - title: Exposure Programmes
+      - title: Exposure
         url: /innova-subject/
-      - title: Experimental Programmes
+      - title: Experimental
         url: /adult-learners/
-      - title: Entrepreneurship Programmes
+      - title: Entrepreneurship
         url: /permalink
   - title: Entrepreneurs
     url: /our-entrepreneurs/
@@ -21,20 +19,18 @@ links:
   - title: Spaces
     url: /permalink
     sublinks:
-      - title: Evolve Room
+      - title: MakerSpace+
         url: /permalink
-      - title: Digital Solutions Lab (DSL)
+      - title: Evolve Space
         url: /permalink
       - title: Fabric Lab
+        url: /permalink
+      - title: Digital Solutions Lab (DSL)
         url: /permalink
       - title: Video/Photo Lab
         url: /permalink
       - title: Audio Lab
         url: /permalink
-      - title: MakerSpace+
-        url: /permalink
-  - title: Awards
-    url: /permalink
   - title: Events
     url: /permalink
   - title: Contact
