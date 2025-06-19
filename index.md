@@ -26,7 +26,8 @@ sections:
       url: /innova-subject/
       image: /images/exposure_04.png
       description: Creating Awareness and Interest in I&E through the INNOVA Subject,
-        Entrepreneurship Talks and Excursions
+        Entrepreneurship Talks and Excursions.
+      alt: Image alt text
   - infopic:
       title: Experimental Programmes
       id: infopic
