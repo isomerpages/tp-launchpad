@@ -38,12 +38,14 @@ sections:
         Workshops. National Innovation Competitions, Global Entrepreneurship
         Internship Programmes, and CCAs.
   - infopic:
-      title: Entrepreneurship
+      title: Entrepreneurship Programmes
       id: infopic
       button: Learn more
       alt: Image alt text
-      image: /images/info_pic_home_page_08.jpg
+      image: /images/experimental_programme_06.png
       url: entrepreneurship
+      description: CET (continuing education & training for graduates and the public)
+        & Incubation Programmes (for entrepreneurs).
   - textcards:
       title: Connect with us
       subtitle: Inspire,Innovate,Collaborate!
