@@ -2,5 +2,6 @@ collections:
   entrepreneurs:
     output: true
     order:
+      - Awards.md
       - Our Entrepreneurs.md
       - Start Up Stories.md
