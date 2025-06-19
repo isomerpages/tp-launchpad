@@ -23,7 +23,7 @@ sections:
       title: Exposure Programmes
       id: infopic
       button: Learn more
-      url: academic
+      url: /innova-subject/
       image: /images/exposure_04.png
       description: Creating Awareness and Interest in I&E through the INNOVA Subject,
         Entrepreneurship Talks and Excursions
