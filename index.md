@@ -20,11 +20,13 @@ sections:
         and disruptors.   We belief every student has the potential to create
         impact.
   - infopic:
-      title: Exposure
+      title: Exposure Programmes
       id: infopic
       button: Learn more
       url: academic
-      image: /images/info_pic_home_page_06.png
+      image: /images/exposure_04.png
+      description: Creating Awareness and Interest in I&E through the INNOVA Subject,
+        Entrepreneurship Talks and Excursions
   - infopic:
       title: Experimental
       id: infopic
