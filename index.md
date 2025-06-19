@@ -12,14 +12,6 @@ sections:
         Temasek Polytechnic, providing support and resources for budding
         innovators and entrepreneurs.
       variant: image
-  - infocols:
-      title: Temasek Launchpad
-      subtitle: Who are we
-      id: infocols
-      linktext: Learn more
-      infoboxes:
-        - title: Infobox
-          description: Infobox description
   - infopic:
       title: Exposure
       id: infopic
@@ -57,4 +49,11 @@ sections:
           description: Card description
           linktext: Learn more
           url: ""
+  - infobar:
+      title: Temasek Launchpad
+      subtitle: welcome to
+      id: infobar
+      description: We’re not just a department, we’re a launchpad for dreamers, doers,
+        and disruptors.   We belief every student has the potential to create
+        impact.
 ---
