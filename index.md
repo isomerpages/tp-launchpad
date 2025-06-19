@@ -28,12 +28,15 @@ sections:
       description: Creating Awareness and Interest in I&E through the INNOVA Subject,
         Entrepreneurship Talks and Excursions
   - infopic:
-      title: Experimental
+      title: Experimental Programmes
       id: infopic
       button: Learn more
       alt: Image alt text
-      image: /images/info_pic_home_page_07.jpg
+      image: /images/experimental_05.png
       url: Innovation
+      description: Experiential Learning and Application through Makerspace+
+        Workshops. National Innovation Competitions, Global Entrepreneurship
+        Internship Programmes, and CCAs.
   - infopic:
       title: Entrepreneurship
       id: infopic
