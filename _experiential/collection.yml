@@ -1,5 +1,5 @@
 collections:
-  experimental-programmes:
+  experiential:
     output: true
     order:
       - Originator Programme.md
