@@ -2,8 +2,8 @@ collections:
   exposure-programmes:
     output: true
     order:
-      - Entrepreneurship Talks & Excursions.md
       - INNOVA Subject.md
-      - Overseas Study Trips.md
+      - Entrepreneurship Talks & Excursions.md
       - Secondary School Programmes.md
+      - Overseas Study Trips.md
       - Student Involvement.md
