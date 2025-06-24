@@ -29,7 +29,7 @@ sections:
         Entrepreneurship Talks and Excursions.
       alt: Image alt text
   - infopic:
-      title: Experimental Programmes
+      title: Experiential
       id: infopic
       button: Learn more
       alt: Image alt text
