@@ -1,5 +1,5 @@
 collections:
-  exposure-programmes:
+  exposure:
     output: true
     order:
       - INNOVA Subject.md
