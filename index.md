@@ -20,7 +20,7 @@ sections:
         and disruptors.   We belief every student has the potential to create
         impact.
   - infopic:
-      title: Exposure Programmes
+      title: Exposure
       id: infopic
       button: Learn more
       url: /innova-subject/
@@ -39,7 +39,7 @@ sections:
         Workshops. National Innovation Competitions, Global Entrepreneurship
         Internship Programmes, and CCAs.
   - infopic:
-      title: Entrepreneurship Programmes
+      title: Entrepreneurship
       id: infopic
       button: Learn more
       alt: Image alt text
@@ -60,8 +60,4 @@ sections:
           description: Are you interested in partnering with us?
           linktext: Learn more
           url: /partnership/
-        - title: Card
-          description: Card description
-          linktext: Learn more
-          url: ""
 ---
