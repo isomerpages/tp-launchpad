@@ -2,6 +2,7 @@ collections:
   experimental-programmes:
     output: true
     order:
+      - SpaceHaus.md
       - TPEC.md
       - Originator Programme.md
       - Founder SIP.md
