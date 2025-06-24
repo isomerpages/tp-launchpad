@@ -2,9 +2,9 @@ collections:
   experimental-programmes:
     output: true
     order:
+      - Originator Programme.md
+      - Founder SIP.md
+      - Hackathons.md
       - Industry Partnerships.md
       - Conventions.md
       - Entrepreneurship Talks & Excursions.md
-      - Founder SIP.md
-      - Hackathons.md
-      - Originator Programme.md
