@@ -2,6 +2,7 @@ collections:
   experimental-programmes:
     output: true
     order:
+      - Industry Partnerships.md
       - Conventions.md
       - Entrepreneurship Talks & Excursions.md
       - Founder SIP.md
