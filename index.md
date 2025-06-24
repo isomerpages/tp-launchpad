@@ -48,7 +48,7 @@ sections:
       description: CET (continuing education & training for graduates and the public)
         & Incubation Programmes (for entrepreneurs).
   - textcards:
-      title: Connect with us
+      title: Connect With Us
       subtitle: Inspire,Innovate,Collaborate!
       id: textcards
       cards:
