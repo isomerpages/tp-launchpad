@@ -2,11 +2,11 @@ collections:
   experimental-programmes:
     output: true
     order:
-      - CCAs/TPEC.md
-      - CCAs/SpaceHaus.md
-      - CCAs/.keep
       - Originator Programme.md
       - Founder SIP.md
       - Hackathons.md
       - Industry Partnerships.md
+      - CCAs/.keep
+      - CCAs/TPEC.md
+      - CCAs/SpaceHaus.md
       - Conventions.md
