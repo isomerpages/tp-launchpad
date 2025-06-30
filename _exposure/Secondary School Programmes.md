@@ -6,13 +6,10 @@ description: ""
 ---
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Secondary_school_programmes_header_startup_founder_stories_18.png">
-</div>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/secondary_programme_About_us_page_17.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Banner_exposure_2_startup_founder_stories_16.png">
 </div>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Banner_exposure_2_startup_founder_stories_16.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Secondary_school_P_Page_About_us_page_17.png">
 </div>
 <p></p>
