@@ -2,6 +2,7 @@ collections:
   experiential:
     output: true
     order:
+      - Projects/Hackathons.md
       - Projects/Industry Partnerships.md
       - Projects/.keep
       - Originator Programme.md
