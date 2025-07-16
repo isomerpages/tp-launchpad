@@ -2,6 +2,7 @@ collections:
   entrepreneurship:
     output: true
     order:
+      - Founder SIP.md
       - Adult Learners.md
       - Mentorship Programme.md
       - Pre seed Funding.md
