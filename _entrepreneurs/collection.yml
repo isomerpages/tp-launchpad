@@ -2,6 +2,7 @@ collections:
   entrepreneurs:
     output: true
     order:
+      - Lifestyle, F&B, Retail/.keep
       - Awards.md
       - Our Entrepreneurs.md
       - Start Up Stories.md
