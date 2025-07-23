@@ -2,7 +2,7 @@ collections:
   entrepreneurs:
     output: true
     order:
-      - Our Entrepreneurs/Our Entrepreneurs.md
+      - Our Entrepreneurs/Lifestyle, F&B, Retail.md
       - Our Entrepreneurs/.keep
       - Awards.md
       - Start Up Stories.md
