@@ -4,5 +4,17 @@ permalink: /adult-learners/
 variant: tiptap
 description: ""
 ---
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Adult_learners_startup_founder_stories_06.png">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Adult_learners_About_us_page_07.png">
+</div>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
 <p><a href="https://www.tp.edu.sg/schools-and-courses/adult-learners/all-courses/skillsfuture-career-transition-programme/sctp-beyond-the-gig-economy.html" rel="noopener nofollow" target="_blank">Click here to register our course</a>
 </p>
