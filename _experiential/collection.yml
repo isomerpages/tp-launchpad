@@ -2,13 +2,13 @@ collections:
   experiential:
     output: true
     order:
-      - Entrepreneurship Talks & Excursions.md
       - Makerspace Workshops.md
-      - Projects/Hackathons.md
-      - Projects/Industry Partnerships.md
-      - Projects/.keep
-      - Originator Programme.md
       - CCAs/.keep
       - CCAs/TPEC.md
       - CCAs/SpaceHaus.md
+      - Projects/.keep
+      - Projects/Hackathons.md
+      - Projects/Industry Partnerships.md
       - Conventions.md
+      - Originator Programme.md
+      - Entrepreneurship Talks & Excursions.md
