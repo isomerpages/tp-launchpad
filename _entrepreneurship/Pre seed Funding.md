@@ -4,3 +4,12 @@ permalink: /pre-seed-funding/
 variant: tiptap
 description: ""
 ---
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Pre_Seed_header_startup_founder_stories_10.png">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/pre__seed_page.jpg">
+</div>
+<p></p>
