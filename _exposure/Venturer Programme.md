@@ -9,7 +9,8 @@ description: ""
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Banner_exposure_5_startup_founder_stories_27.png">
 </div>
 <p></p>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Venturer_P_Page_About_us_page_28_About_us_page_28.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Venturer_Programme_About_us_page_13.png">
 </div>
 <p></p>
