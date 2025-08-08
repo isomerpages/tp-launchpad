@@ -2,9 +2,9 @@ collections:
   spaces:
     output: true
     order:
-      - Fabric Lab.md
       - MakerSpace.md
       - Digital Solution Lab (DSL).md
+      - Fabric Lab.md
       - Sound Recording & Photo Studio.md
       - Evolve Space.md
       - Incubation Rooms.md
