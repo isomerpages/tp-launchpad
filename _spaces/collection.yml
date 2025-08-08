@@ -2,7 +2,7 @@ collections:
   spaces:
     output: true
     order:
-      - Audio and Photo Studio.md
-      - Digital Solution Lab (DSL).md
       - MakerSpace.md
+      - Digital Solution Lab (DSL).md
+      - Audio and Photo Studio.md
       - Evolve Space.md
