@@ -2,8 +2,8 @@ collections:
   spaces:
     output: true
     order:
-      - Incubation Rooms.md
       - MakerSpace.md
       - Digital Solution Lab (DSL).md
       - Sound Recording & Photo Studio.md
       - Evolve Space.md
+      - Incubation Rooms.md
