@@ -20,17 +20,16 @@ sections:
       title: Temasek Launchpad
       subtitle: welcome to
       id: infobar
-      description: We’re not just a department, we’re a launchpad for dreamers, doers,
-        and disruptors.   We belief every student has the potential to create
-        impact.
+      description: More than a department - we're a community of innovators and
+        entrepreneuers, nurturing the next generation of changemakers.
   - infopic:
       title: Exposure
       id: infopic
       button: Learn more
       url: /innova-subject/
       image: /images/exposure_04.png
-      description: Creating Awareness and Interest in I&E through the INNOVA Subject,
-        Entrepreneurship Talks and Excursions.
+      description: Our exposure programmes introduce innovation and entrepreneurship
+        to the community.
       alt: Image alt text
   - infopic:
       title: Experiential
@@ -39,9 +38,8 @@ sections:
       alt: Image alt text
       image: /images/experimental_05.png
       url: Innovation
-      description: Experiential Learning and Application through Makerspace+
-        Workshops. National Innovation Competitions, Global Entrepreneurship
-        Internship Programmes, and CCAs.
+      description: We curate immersive programmes for learners to delve into the
+        entrepreneurship landscape.
   - infopic:
       title: Entrepreneurship
       id: infopic
@@ -49,19 +47,19 @@ sections:
       alt: Image alt text
       image: /images/experimental_programme_06.png
       url: entrepreneurship
-      description: CET (continuing education & training for graduates and the public)
-        & Incubation Programmes (for entrepreneurs).
+      description: We support an eco-system of start-ups and help potential
+        entrepreneurs kick start their journey.
   - textcards:
       title: Connect With Us
       subtitle: Inspire,Innovate,Collaborate!
       id: textcards
       cards:
         - title: Contact Us
-          description: Find out more how you can contact us!
+          description: ""
           linktext: Learn more
           url: /connect/
         - title: Partnership
-          description: Are you interested in partnering with us?
+          description: ""
           linktext: Learn more
           url: /partnership/
 ---
