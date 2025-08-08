@@ -19,21 +19,6 @@ links:
       - title: Awards
         url: /permalink
   - title: Spaces
-    url: /permalink
-    sublinks:
-      - title: MakerSpace+
-        url: /permalink
-      - title: Digital Solutions Lab (DSL)
-        url: /permalink
-      - title: Fabric Lab
-        url: /permalink
-      - title: Sound Recording & Photo Studio
-        url: /permalink
-      - title: Evolve Space
-        url: /permalink
-      - title: Incubation Room
-        url: /permalink
+    collection: spaces
   - title: Contact
     url: /permalink
-  - title: Spaces
-    collection: spaces
