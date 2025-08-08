@@ -2,5 +2,6 @@ collections:
   spaces:
     output: true
     order:
+      - Digital Solution Lab (DSL).md
       - MakerSpace.md
       - Evolve Space.md
