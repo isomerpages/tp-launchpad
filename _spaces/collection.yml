@@ -1,4 +1,5 @@
 collections:
   spaces:
     output: true
-    order: []
+    order:
+      - MakerSpace.md
