@@ -2,6 +2,7 @@ collections:
   spaces:
     output: true
     order:
+      - Fabric Lab.md
       - MakerSpace.md
       - Digital Solution Lab (DSL).md
       - Sound Recording & Photo Studio.md
