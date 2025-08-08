@@ -2,5 +2,5 @@ collections:
   spaces:
     output: true
     order:
-      - Evolve Space.md
       - MakerSpace.md
+      - Evolve Space.md
