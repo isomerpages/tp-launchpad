@@ -2,14 +2,14 @@ collections:
   experiential:
     output: true
     order:
-      - Overseas Study Trips.md
       - Makerspace Workshops.md
-      - CCAs/.keep
-      - CCAs/TPEC.md
-      - CCAs/SpaceHaus.md
       - Projects/.keep
       - Projects/Hackathons.md
       - Projects/Industry Partnerships.md
       - Conventions.md
       - Originator Programme.md
+      - CCAs/.keep
+      - CCAs/TPEC.md
+      - CCAs/SpaceHaus.md
+      - Overseas Study Trips.md
       - Entrepreneurship Talks & Excursions.md
