@@ -2,6 +2,7 @@ collections:
   experiential:
     output: true
     order:
+      - Overseas Study Trips.md
       - Makerspace Workshops.md
       - CCAs/.keep
       - CCAs/TPEC.md
