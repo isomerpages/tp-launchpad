@@ -2,8 +2,8 @@ collections:
   experiential:
     output: true
     order:
-      - Hackathons.md
       - Makerspace Workshops.md
+      - Hackathons.md
       - Projects/.keep
       - Projects/Hackathons.md
       - Projects/Industry Partnerships.md
