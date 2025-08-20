@@ -2,9 +2,9 @@ collections:
   experiential:
     output: true
     order:
-      - Innovative Industry Projects.md
       - Makerspace Workshops.md
       - Hackathons.md
+      - Innovative Industry Projects.md
       - Conventions.md
       - CCAs/.keep
       - CCAs/TPEC.md
