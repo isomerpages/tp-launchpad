@@ -11,7 +11,6 @@ third_nav_title: CCAs
 </div>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/SpaceHaus_2_About_us_page_25.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Spacehaus__final_.jpg">
 </div>
-<p></p>
 <p></p>
