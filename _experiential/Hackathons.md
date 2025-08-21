@@ -6,9 +6,12 @@ description: ""
 ---
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Hackathons_page_About_us_page_23.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Hackathons_page_startup_founder_stories_22.png">
 </div>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Hackathon_2025__final_.jpg">
+</div>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Hackathon_2_About_us_page_29_About_us_page_29.jpg">
 </div>
