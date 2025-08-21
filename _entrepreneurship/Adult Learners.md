@@ -9,10 +9,10 @@ description: ""
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Adult_learners_startup_founder_stories_06.png">
 </div>
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Adult_learners_About_us_page_07.png">
-</div>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Adult_Learners__final__About_us_page_06.png">
+</div>
 <p></p>
 <p></p>
 <p></p>
