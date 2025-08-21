@@ -11,6 +11,6 @@ description: ""
 <p></p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Venturer_Programme_About_us_page_13.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Venturer_Programme__Final__About_us_page_10.png">
 </div>
 <p></p>
