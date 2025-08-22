@@ -9,7 +9,8 @@ description: ""
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Incubation_Banner.png">
 </div>
 <p></p>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Incubation.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Incubation__2_.png">
 </div>
 <p></p>
