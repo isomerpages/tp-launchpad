@@ -58,8 +58,4 @@ sections:
           description: ""
           linktext: Learn more
           url: /connect/
-        - title: Partnership
-          description: ""
-          linktext: Learn more
-          url: /partnership/
 ---
