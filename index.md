@@ -16,6 +16,8 @@ sections:
         Temasek Polytechnic, providing support and resources for budding
         innovators and entrepreneurs.
       variant: image
+      url: /start-up-founders-story/
+      button: Find out more
   - infobar:
       title: Temasek Launchpad
       subtitle: welcome to
