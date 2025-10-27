@@ -16,7 +16,6 @@ sections:
         Temasek Polytechnic, providing support and resources for budding
         innovators and entrepreneurs.
       variant: image
-      url: ""
       key_highlights:
         - title: Start Up Stories
           description: Our entrepreneurs
@@ -50,7 +49,7 @@ sections:
       id: infopic
       button: Learn more
       alt: Image alt text
-      image: /images/experimental_programme_06.png
+      image: /images/Entrepreneuership_home_page.jpg
       url: entrepreneurship
       description: We support an eco-system of start-ups and help potential
         entrepreneurs kick start their journey.
