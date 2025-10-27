@@ -41,7 +41,7 @@ sections:
       button: Learn more
       alt: Image alt text
       image: /images/experimental_05.png
-      url: Innovation
+      url: /makerspace-workshops/
       description: We curate immersive programmes for learners to delve into the
         entrepreneurship landscape.
   - infopic:
