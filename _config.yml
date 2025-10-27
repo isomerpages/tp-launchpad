@@ -53,7 +53,7 @@ staging: https://staging-lite.d1ww3f03vnzgjb.amplifyapp.com
 prod: https://master.d3qhfmy477grha.amplifyapp.com
 facebook-pixel: ""
 resources_name: test
-shareicon: /images/tplogo_black.png
+shareicon: /images/TP_Logo.png
 is_government: false
 google_analytics_ga4: ""
 linkedin-insights: ""
