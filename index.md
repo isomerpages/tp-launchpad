@@ -2,7 +2,7 @@
 layout: homepage
 title: Temasek Launchpad @ TP
 description: An Isomer site of the Singapore Government
-image: /images/tplogo_black.png
+image: /images/TP_Logo.png
 permalink: /
 notification: Government officials will Never ask you to transfer money or
   disclose bank log-in details over a phone call. Call the 24/7 ScamShield
