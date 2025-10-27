@@ -31,7 +31,7 @@ sections:
       id: infopic
       button: Learn more
       url: /innova-subject/
-      image: /images/exposure_04.png
+      image: /images/Exposure_homepage.jpg
       description: Our exposure programmes introduce innovation and entrepreneurship
         to the community.
       alt: Image alt text
