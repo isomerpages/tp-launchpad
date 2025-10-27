@@ -10,6 +10,9 @@ description: ""
 </div>
 <p></p>
 <div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Field_Trip_NUS_Hangar.jpg">
+</div>
+<div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Talks_and_Excursions_page__final__18.jpg">
 </div>
 <p></p>
