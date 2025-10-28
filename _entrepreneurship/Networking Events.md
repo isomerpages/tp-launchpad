@@ -10,6 +10,9 @@ description: ""
 </div>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Networking_events_page__final__12.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Dragon_Fest.png">
 </div>
+<p>The Entrepreneurship Awards 2024 was organized to unite and strengthen
+the Temasek Launchpad start-up community.</p>
+<p></p>
 <p></p>
