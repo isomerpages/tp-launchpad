@@ -17,8 +17,8 @@ sections:
         innovators and entrepreneurs.
       variant: image
       key_highlights:
-        - title: Start Up Stories
-          description: Our entrepreneurs
+        - title: Read more here
+          description: ""
           url: /start-up-founders-story/
   - infobar:
       title: Temasek Launchpad
