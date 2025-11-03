@@ -49,7 +49,7 @@ sections:
       id: infopic
       button: Learn more
       alt: Image alt text
-      image: /images/Entrepreneuership_home_page.jpg
+      image: /images/Entrepreneurship_homepage.jpg
       url: /adult-learners/
       description: We support an eco-system of start-ups and help potential
         entrepreneurs kick start their journey.
