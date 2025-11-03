@@ -20,7 +20,8 @@ description: ""
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Entrepreneur Stories Page/entrepreneurs_stories_2_SGFR.png">
 </div>
 <p></p>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Entrepreneur Stories Page/entrepreneurs_stories_2_About_us_page_03.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Our_entrepreneurs_KeithTan.png">
 </div>
 <p></p>
