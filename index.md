@@ -19,7 +19,7 @@ sections:
       key_highlights:
         - title: Read more here
           description: ""
-          url: /start-up-founders-story/
+          url: /start-up-stories/
   - infobar:
       title: Temasek Launchpad
       subtitle: welcome to
