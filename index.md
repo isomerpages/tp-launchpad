@@ -4,7 +4,7 @@ title: Temasek Launchpad
 description: An Isomer site of the Singapore Government
 image: /images/TP_Logo.png
 permalink: /
-notification: Government officials will Never ask you to transfer money or
+notification: Government officials will NEVER ask you to transfer money or
   disclose bank log-in details over a phone call. Call the 24/7 ScamShield
   Helpline at 1799 if you are unsure if something is a scam. For more
   information on how to protect yourself against scams, please visit the
