@@ -1,0 +1,10 @@
+collections:
+  entrepreneurship:
+    output: true
+    order:
+      - Mentorship Programme.md
+      - Pre seed Funding.md
+      - Originator Programme.md
+      - Adult Learners.md
+      - Founder SIP.md
+      - Networking Events.md

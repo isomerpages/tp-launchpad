@@ -1,0 +1,13 @@
+collections:
+  experiential:
+    output: true
+    order:
+      - Makerspace Workshops.md
+      - Hackathons.md
+      - Industry Projects.md
+      - Conventions.md
+      - CCAs/.keep
+      - CCAs/TPEC.md
+      - CCAs/SpaceHaus.md
+      - Overseas Study Trips.md
+      - Talks & Excursions.md

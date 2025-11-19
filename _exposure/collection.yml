@@ -1,0 +1,7 @@
+collections:
+  exposure:
+    output: true
+    order:
+      - INNOVA Subject.md
+      - Venturer Programme.md
+      - Secondary School Programmes.md

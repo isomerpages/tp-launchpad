@@ -1,0 +1,11 @@
+collections:
+  entrepreneurs:
+    output: true
+    order:
+      - Our Entrepreneurs/.keep
+      - Our Entrepreneurs/Lifestyle, F&B, Retail.md
+      - Our Entrepreneurs/Biotech & Life Sciences.md
+      - Our Entrepreneurs/Finance, Enterprise Services.md
+      - Our Entrepreneurs/Technology, Software & IT.md
+      - Our Entrepreneurs/Social Impact & Climate Innovation.md
+      - Start Up Stories.md

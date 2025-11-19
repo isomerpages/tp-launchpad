@@ -1,15 +1,22 @@
-##################################
-#                                #
-# Feel free to edit this file :) #
-#                                #
-##################################
-
-logo: /images/isomer-logo.svg
-
+logo: /images/tplogo_black.png
 links:
-  - title: Contact Us
-    url: /contact-us/
-  - title: Example Page
-    url: /example-page/
-  - title: Example Folder
-    collection: example-folder
+  - title: Programmes
+    url: /innova-subject/
+    sublinks:
+      - title: Exposure
+        url: /innova-subject/
+      - title: Experiential
+        url: /makerspace-workshops/
+      - title: Entrepreneurship
+        url: /adult-learners/
+  - title: Entrepreneurs
+    url: /lifestyle-f-b-retail/
+    sublinks:
+      - title: Our Entrepreneurs
+        url: /lifestyle-f-b-retail/
+      - title: Start Up Stories
+        url: /start-up-stories/
+  - title: Spaces
+    collection: spaces
+  - title: Contact
+    url: /connect/

@@ -1,32 +1,65 @@
 ---
 layout: homepage
-title: Isomer Site
-description: Brief site description here
-image: /images/isomer-logo.svg
+title: Temasek Launchpad
+description: An Isomer site of the Singapore Government
+image: /images/TP_Logo.png
 permalink: /
-notification: Here's a notification bar you can use!
+notification: Government officials will NEVER ask you to transfer money or
+  disclose bank log-in details over a phone call. Call the 24/7 ScamShield
+  Helpline at 1799 if you are unsure if something is a scam. For more
+  information on how to protect yourself against scams, please visit the
+  ScamShield website.
 sections:
-    - hero:
-        title: Hero title
-        subtitle: Hero subtitle
-        background: /images/hero-banner.png
-        button: Contact Us
-        url: /contact-us/
-        key_highlights:
-            - title: Highlight A
-              description: Important highlight A is important
-              url: https://google.com
-            - title: Highlight B
-              description: Important highlight B is equally important
-              url: https://gmail.com
-            - title: Page A
-              description: Page A is important too
-              url: /privacy/
-    - infobar:
-        title: Infobar title
-        subtitle: Subtitle
-        description: About a sentence worth of description here
-        button: Button text
-        url: /faq/
+  - hero:
+      background: /images/Home_page_Hero_Banner.jpg
+      subtitle: We operate within the innovation and entrepreneurship sector in
+        Temasek Polytechnic, providing support and resources for budding
+        innovators and entrepreneurs.
+      variant: image
+      key_highlights:
+        - title: Read more here
+          description: ""
+          url: /start-up-stories/
+  - infobar:
+      title: Temasek Launchpad
+      subtitle: welcome to
+      id: infobar
+      description: More than a department - we're a community of innovators and
+        entrepreneuers, nurturing the next generation of changemakers.
+  - infopic:
+      title: Exposure
+      id: infopic
+      button: Learn more
+      url: /innova-subject/
+      image: /images/Exposure_homepage.jpg
+      description: Our exposure programmes introduce innovation and entrepreneurship
+        to the community.
+      alt: Image alt text
+  - infopic:
+      title: Experiential
+      id: infopic
+      button: Learn more
+      alt: Image alt text
+      image: /images/experimental_05.png
+      url: /makerspace-workshops/
+      description: We curate immersive programmes for learners to delve into the
+        entrepreneurship landscape.
+  - infopic:
+      title: Entrepreneurship
+      id: infopic
+      button: Learn more
+      alt: Image alt text
+      image: /images/Entrepreneurship_homepage.jpg
+      url: /adult-learners/
+      description: We support an eco-system of start-ups and help potential
+        entrepreneurs kick start their journey.
+  - textcards:
+      title: Connect With Us
+      subtitle: Inspire,Innovate,Collaborate!
+      id: textcards
+      cards:
+        - title: Contact Us
+          description: ""
+          linktext: Learn more
+          url: /connect/
 ---
-
