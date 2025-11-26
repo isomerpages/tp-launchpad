@@ -15,11 +15,14 @@ sections:
       subtitle: We operate within the innovation and entrepreneurship sector in
         Temasek Polytechnic, providing support and resources for budding
         innovators and entrepreneurs.
-      variant: image
+      variant: side
       key_highlights:
         - title: Read more here
           description: ""
           url: /start-up-stories/
+      size: md
+      alignment: right
+      backgroundColor: gray
   - infobar:
       title: Temasek Launchpad
       subtitle: welcome to
