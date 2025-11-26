@@ -16,11 +16,7 @@ sections:
         Temasek Polytechnic, providing support and resources for budding
         innovators and entrepreneurs.
       variant: side
-      key_highlights:
-        - title: Read more here
-          description: ""
-          url: /start-up-stories/
-      size: md
+      size: sm
       alignment: right
       backgroundColor: gray
   - infobar:
