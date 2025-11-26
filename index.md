@@ -19,6 +19,10 @@ sections:
       size: sm
       alignment: right
       backgroundColor: gray
+      key_highlights:
+        - title: Read more here
+          description: ""
+          url: /start-up-stories/
   - infobar:
       title: Temasek Launchpad
       subtitle: welcome to
