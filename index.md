@@ -15,7 +15,7 @@ sections:
       subtitle: We operate within the innovation and entrepreneurship sector in
         Temasek Polytechnic, providing support and resources for budding
         innovators and entrepreneurs.
-      variant: side
+      variant: image
       size: sm
       alignment: right
       backgroundColor: gray
