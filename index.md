@@ -11,7 +11,7 @@ notification: Government officials will NEVER ask you to transfer money or
   ScamShield website.
 sections:
   - hero:
-      background: /images/Home_banner_aligned_to_left.jpg
+      background: /images/Home_banner_testing.jpg
       subtitle: '"Transforming market insights into groundbreaking innovation and
         converting competition into limitless opportunities for growth."'
       variant: floating
