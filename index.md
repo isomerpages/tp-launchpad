@@ -12,10 +12,9 @@ notification: Government officials will NEVER ask you to transfer money or
 sections:
   - hero:
       background: /images/Home_banner_aligned_to_left.jpg
-      subtitle: We operate within the innovation and entrepreneurship sector in
-        Temasek Polytechnic, providing support and resources for budding
-        innovators and entrepreneurs.
-      variant: side
+      subtitle: '"Transforming market insights into groundbreaking innovation and
+        converting competition into limitless opportunities for growth."'
+      variant: floating
       size: md
       alignment: right
       backgroundColor: gray
