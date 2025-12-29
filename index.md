@@ -11,12 +11,12 @@ notification: Government officials will NEVER ask you to transfer money or
   ScamShield website.
 sections:
   - hero:
-      background: /images/Home_page_Hero_Banner.jpg
+      background: /images/Home_banner_aligned_to_left.jpg
       subtitle: We operate within the innovation and entrepreneurship sector in
         Temasek Polytechnic, providing support and resources for budding
         innovators and entrepreneurs.
-      variant: image
-      size: sm
+      variant: side
+      size: md
       alignment: right
       backgroundColor: gray
       key_highlights:
