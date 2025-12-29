@@ -14,7 +14,7 @@ sections:
       background: /images/Home_banner_testing.jpg
       subtitle: '"Transforming market insights into groundbreaking innovation and
         converting competition into limitless opportunities for growth."'
-      variant: floating
+      variant: side
       size: md
       alignment: right
       backgroundColor: gray
