@@ -12,9 +12,7 @@ notification: Government officials will NEVER ask you to transfer money or
 sections:
   - hero:
       background: /images/Home_page_Hero_Banner.jpg
-      subtitle: '"Transforming market insights into groundbreaking innovation and
-        converting competition into limitless opportunities for growth."'
-      variant: floating
+      variant: center
       size: md
       alignment: right
       backgroundColor: gray
